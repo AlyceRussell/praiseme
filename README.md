@@ -31,5 +31,7 @@ Here is how to use the `praiseme` package:
 ``` r
 library(praiseme)
 praise(name = "Alyce")
-#> You're the best, , Alyce, !
+#> You're the best, Alyce!
+praise(name = "Alyce", punctuation = ".")
+#> You're the best, Alyce.
 ```

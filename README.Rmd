@@ -41,5 +41,6 @@ Here is how to use the `praiseme` package:
 ```{r example}
 library(praiseme)
 praise(name = "Alyce")
+praise(name = "Alyce", punctuation = ".")
 ```
 
