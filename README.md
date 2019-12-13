@@ -9,6 +9,12 @@
 
 The goal of praiseme is to give someone praise.
 
+## Contributors
+
+Original idea presented at rOpenSci OzUncof19 by Nicholas Tierney and Saras Windecker as part of the introduction to R package development and Github workshop. 
+
+Extended by Alyce Russell during her stay, with contributions from Kristy Robledo. :smile:
+
 ## Installation
 
 You can install the development version from
