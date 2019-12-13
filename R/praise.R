@@ -39,7 +39,8 @@ praise <- function (name, punctuation = "!") {
                          glue::glue("{name}, you're a gift that keeps on giving{punctuation}"),
                          glue::glue("{name}, you are enough{punctuation}"),
                          glue::glue("You're all that {name}, plus a super sized bag of chips{punctuation}"),
-                         glue::glue("{name}, you're even better than a unicorn because you're real{punctuation}")),
+                         glue::glue("{name}, you're even better than a unicorn because you're real{punctuation}"),
+                         glue::glue("How amazing are you, {name}{punctuation}")),
                          size=1, replace = FALSE)
  compliment
 

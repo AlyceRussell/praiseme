@@ -12,10 +12,10 @@ praise(name, punctuation = "!")
 \item{punctuation}{This is our emphasis as a text input. Default is "!".}
 }
 \value{
-Text string with praise
+Text string with personalised praise
 }
 \description{
-This function is super useful when you're feeling sad and need praise.
+This function is super useful when you're feeling sad and need praise. This latest version has been updated to randomly select a compliment.
 }
 \examples{
 praise(name = "Alyce", punctuation = "!")
